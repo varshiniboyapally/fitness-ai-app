@@ -10,7 +10,6 @@ The app generates personalized fitness suggestions, workout ideas, and wellness 
 ## Live Application 
 [PASTE YOUR PARTYROCK LINK HERE](https://partyrock.aws/u/Indu18/iA4C3RvoW/Health-and-Wellness-Personal-Assessment-Guide)
 
-
 ## Features
 - AI-generated workout plans  
 - Fitness and wellness recommendations  
