@@ -1,15 +1,14 @@
 # fitness-ai-app
 AI-powered fitness application built using AWS PartyRock
-# 🏋️ AI Fitness App (Built with AWS PartyRock)
+# AI Fitness App (Built with AWS PartyRock)
 
 ## Overview
 This is an AI-powered fitness application created using AWS PartyRock.  
 The app generates personalized fitness suggestions, workout ideas, and wellness guidance using generative AI.
 
 
-## Live Application
-👉 Click here to use the app:  
-PASTE YOUR PARTYROCK LINK HERE
+## Live Application 
+[PASTE YOUR PARTYROCK LINK HERE](https://partyrock.aws/u/Indu18/iA4C3RvoW/Health-and-Wellness-Personal-Assessment-Guide)
 
 
 ## Features
@@ -31,4 +30,3 @@ This project was built as part of a learning exercise to explore how generative 
 ## Author
 Varshini Boyapally
 
-https://partyrock.aws/u/Indu18/iA4C3RvoW/Health-and-Wellness-Personal-Assessment-Guide
